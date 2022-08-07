@@ -6,7 +6,7 @@
 The following are five questions and step-by-step answers based on the data sets:
 
 
-__Question 1: Which cities had the largest and least amount of murders since 2014, and how many did they average each year?__
+__Question 1: Which cities had the largest and least amount of murders since 2014?__
 
 __Step-by-step answer:__
 
@@ -14,12 +14,29 @@ __Step-by-step answer:__
 2. When the Pivot Table is open, insert the category "City or County" into the rows column so that all the cities may be listed. 
 3. Next put the category "N_killed" into the values section of your pivot table. (Be sure that the values for N_killed are summarized by the sum)
 4. Referring back to the rows sections that contains the cities, change the sorting to "Sort by N_killed"
-5. When the order is in Ascending, the data will reflect the cities with the least amount of murders to the cities with the most. 
+5. Put the order as Ascending so the data will reflect the cities with the least amount of murders to the cities with the most. 
 ![Screen Shot 2022-08-06 at 9 18 36 PM](https://user-images.githubusercontent.com/109619909/183275123-31ba80d6-c8d0-4502-aced-b0cfdec56c38.png)
 * __Answer: As seen in the pivot table, there are several cities listied where no murders occured, however there were still reports of gun violence which is why they are listed on the data sheet. Cities such as Abbottstown,Abercrombie,Accident, and Achille had no murders from gun violence since 2014. These cities may have had people injured rather than killed.__
 6. Next Change the order to descending to see which cities had the most amount of murders due to gun violence. 
 ![Screen Shot 2022-08-06 at 9 32 25 PM](https://user-images.githubusercontent.com/109619909/183275412-2b1b3adb-73c1-47e8-b39e-9a615db36b97.png)
 * __Answer: The pivot table reflects that Chicago has the most murders by gun violence since 2014 with a staggering amount of 4,775. The city with the second most murders is Houston with 2,953 followed by Philadelphia with 2,691.__
 
-__Question 2:__
+__Question 2: Compare the amount of people injured in 2014 to the amount of people injured in 2021 in each state and analyze the states with the most injuries to see if there were any changes?__
 
+
+__Step-by-step answer:__
+
+1. Within the spreadsheet the data is seperated into different sheets by year. Click on the sheet labeled "2014" and create a pivot table. 
+2. Once the pivot table is opened, bring the category "state" into the rows part of the pivot table. 
+3. Next bring the category "N_injured" into the values part of the pivot tabe. (Be sure that the values for N_injured are summarized by the sum)
+4. Referring back to the rows sections that contains the States, change the sorting to "Sort by N_injured".  
+5. Change the order to descending so we may see the states with to most injuries listed at the top, and the states with least at the bottom. 
+![Screen Shot 2022-08-07 at 1 25 08 PM](https://user-images.githubusercontent.com/109619909/183309786-c0a22819-ac68-420b-be19-86edbeedfc14.png)
+6. Next click on the sheet labeled "2021" and create a pivot table. 
+7. Once the pivot table is opened, bring the category "state" into the rows part of the pivot table. 
+8. Next bring the category "N_injured" into the values part of the pivot tabe. (Be sure that the values for N_injured are summarized by the sum)
+9. Referring back to the rows sections that contains the States, change the sorting to "Sort by N_injured".  
+10. Change the order to descending so we may see the states with to most injuries listed at the top, and the states with least at the bottom. 
+![Screen Shot 2022-08-07 at 1 31 02 PM](https://user-images.githubusercontent.com/109619909/183310051-a4e8e318-e265-42e0-add4-ff1f02a7b728.png)
+
+* __Answer: There are several differences between the amount of people injured in 2014 compared to the amount of people injured in 2021. Although Illinois still is leading in the amount of injuries amongst the states, the amount of people injured doubled plus more. Many other states experiencd growth in the amount of injuries that occured as there are numerous states with values in the 2000's in 2021 whereas in 2014 Illinois was the only state to reach that amount of injuries.__
