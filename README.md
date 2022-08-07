@@ -6,4 +6,6 @@
 The following are five questions and step-by-step answers based on the data sets:
 
 
-Question 1:
+__Question 1: Which city had the largest amount of murders since 2014, and how many did it average each year?__
+
+__Step-by-step answer:__
