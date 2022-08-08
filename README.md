@@ -78,8 +78,7 @@ __Step-by-step answer:__
 
 
 # Story Summary and Sourcing
-Gun Violence has plagued the United States with staggering numbers that represents lives lost. In 2014 there were a total of 
-
+Gun Violence has plagued the United States with staggering numbers in both killings and injuries. In 2014 there were a total of 12,348 homicides through the use of guns and by 2021 the new total had reached 20,936. There has been a steady increase each year which suggest gun violence is getting worse each year. California, Texas, and Florida are by far the state with highest homicide rates each producing more than 8,000 since the year 2014. California had the largest homicide rate with 11,949 people dying since 2014. The state with the fewest amount of deaths due to guns was Vermont. Vermont has had 125 deaths since 2014. Citizens are also getting injured through this violenceas as well. Illinois was the state that had the most injuries with a value of 2,230. By 2021 Illinois still saw the most amount of injuries and the number had grown to 4,578. In 2014 the states proceeding Illinois were Califonia (1,565) Florida (1,347) and Pennsylvania (1,236) In 2021 the states following Illinois in injuries were Texas (2,982) Pennsylvania (2,602) and California (2,297). Each state following Illinois was now in the 2,000s were as previosly in 2014 the following states hadnt reached more than 1,600. The trend is gun violence is worsening each year. 
 # Data Visualization 
 
 ![NUjBK-homicide-by-gun-violence-for-each-state-from-2014-2022 (1)](https://user-images.githubusercontent.com/109619909/183401338-45116094-f16e-4140-91b6-c883806c2255.png)
