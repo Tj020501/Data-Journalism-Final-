@@ -10,7 +10,7 @@ __Question 1: Which cities had the largest and least amount of murders since 201
 
 __Step-by-step answer:__
 
-1. Insert a pivot table from the data sheet so that we may compare all the cities report killings together. 
+1. Insert a pivot table from the sheet with all the data so that we may compare all the cities report killings together from all years. 
 2. When the Pivot Table is open, insert the category "City or County" into the rows column so that all the cities may be listed. 
 3. Next put the category "N_killed" into the values section of your pivot table. (Be sure that the values for N_killed are summarized by the sum)
 4. Referring back to the rows sections that contains the cities, change the sorting to "Sort by N_killed"
@@ -22,7 +22,6 @@ __Step-by-step answer:__
 * __Answer: The pivot table reflects that Chicago has the most murders by gun violence since 2014 with a staggering amount of 4,775. The city with the second most murders is Houston with 2,953 followed by Philadelphia with 2,691.__
 
 __Question 2: Compare the amount of people injured in 2014 to the amount of people injured in 2021 in each state and analyze the states with the most injuries to see if there were any changes?__
-
 
 __Step-by-step answer:__
 
@@ -38,5 +37,32 @@ __Step-by-step answer:__
 9. Referring back to the rows sections that contains the States, change the sorting to "Sort by N_injured".  
 10. Change the order to descending so we may see the states with to most injuries listed at the top, and the states with least at the bottom. 
 ![Screen Shot 2022-08-07 at 1 31 02 PM](https://user-images.githubusercontent.com/109619909/183310051-a4e8e318-e265-42e0-add4-ff1f02a7b728.png)
-
 * __Answer: There are several differences between the amount of people injured in 2014 compared to the amount of people injured in 2021. Although Illinois still is leading in the amount of injuries amongst the states, the amount of people injured doubled plus more. Many other states experiencd growth in the amount of injuries that occured as there are numerous states with values in the 2000's in 2021 whereas in 2014 Illinois was the only state to reach that amount of injuries.__
+
+__Question 3: What year experienced the greatest and least amount of killings?__ 
+
+__Step-by-step answer:__
+
+1. There are sheets that correspond to each given year. Open a pivot table for 2014
+2. Put number killed in the values part of the pivot table and the number will reflect the amount of killings for that given year.(Be sure that the values for N_killed are summarized by the sum)
+3. Do this for each year, then analyze which year had the greatest amount and which year experienced the least. 
+![Screen Shot 2022-08-07 at 11 57 28 PM](https://user-images.githubusercontent.com/109619909/183358198-fece1a38-7a27-4f50-ab2e-bf0d0dd37d82.png)
+![Screen Shot 2022-08-07 at 11 54 32 PM](https://user-images.githubusercontent.com/109619909/183358217-61b6622f-5d0c-4889-9e42-b2aee82484b0.png)
+* __Answer: 2014 experienced the least amount of murders with a value of 12,348, meanwhile 2021 experienced the most with 20,936 people dying due to hun violence__
+
+__Question 4:Which states had the largest and least amount of murders since 2014?__
+
+__Step-by-step answer:__
+
+1. Insert a pivot table from the sheet with all the data so that we may compare all the states report killings together from all years. 
+2. When the Pivot Table is open, insert the category "states" into the rows column so that all the states may be listed.
+3. Next put the category "N_killed" into the values section of your pivot table. (Be sure that the values for N_killed are summarized by the sum)
+4. Referring back to the rows sections that contains the states, change the sorting to "Sort by N_killed"
+5. Put the order as Ascending so the data will reflect the states with the least amount of murders to the states with the most. 
+![Screen Shot 2022-08-08 at 12 16 51 AM](https://user-images.githubusercontent.com/109619909/183361638-1fc7e1fe-0b4c-49d4-baa6-4874d214524f.png)
+![Screen Shot 2022-08-08 at 12 16 34 AM](https://user-images.githubusercontent.com/109619909/183361689-567be72f-091f-4b69-b602-0bbe12df3e1c.png)
+* __Answer: California has had the most amount of murder due to gun violence since 2014. They have experience 11,949 death. Vermont has has the least amount of murders, only experiencing 125 since 2014
+
+__Question 5:
+
+
