@@ -79,3 +79,7 @@ __Step-by-step answer:__
 
 # Story Summary and Sourcing
 From the dataset that was retreived the national gun archive gun vioence in the United States can now be contextuilized. 
+
+# Data Visualization 
+
+![NUjBK-homicide-by-gun-violence-for-each-state-from-2014-2022](https://user-images.githubusercontent.com/109619909/183399344-836868a2-a2ab-4db9-9582-97be1788af39.png)
