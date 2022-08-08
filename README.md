@@ -59,10 +59,19 @@ __Step-by-step answer:__
 3. Next put the category "N_killed" into the values section of your pivot table. (Be sure that the values for N_killed are summarized by the sum)
 4. Referring back to the rows sections that contains the states, change the sorting to "Sort by N_killed"
 5. Put the order as Ascending so the data will reflect the states with the least amount of murders to the states with the most. 
+6. Next Change the order to descending to see which states had the most amount of murders due to gun violence. 
 ![Screen Shot 2022-08-08 at 12 16 51 AM](https://user-images.githubusercontent.com/109619909/183361638-1fc7e1fe-0b4c-49d4-baa6-4874d214524f.png)
 ![Screen Shot 2022-08-08 at 12 16 34 AM](https://user-images.githubusercontent.com/109619909/183361689-567be72f-091f-4b69-b602-0bbe12df3e1c.png)
-* __Answer: California has had the most amount of murder due to gun violence since 2014. They have experience 11,949 death. Vermont has has the least amount of murders, only experiencing 125 since 2014
+* __Answer: California has had the most amount of murder due to gun violence since 2014. They have experience 11,949 death. Vermont has has the least amount of murders, only experiencing 125 since 2014.__
 
-__Question 5:
+__Question 5: Which day in 2022 expeienced the most amount of killings?__
 
+__Step-by-step answer:__
 
+1. Create a pivot table with the sheet containing the data for the year 2022. 
+2. When the Pivot Table is open, insert the category "Incident dates" into the rows column so that all the dates may be listed.
+3. Next put the category "N_killed" into the values section of your pivot table. (Be sure that the values for N_killed are summarized by the sum)
+4. Referring back to the rows sections that contains the incident dates, change the sorting to "Sort by N_killed"
+5. Next Change the order to descending to see which dates had the most amount of murders due to gun violence. 
+![Screen Shot 2022-08-08 at 12 36 19 AM](https://user-images.githubusercontent.com/109619909/183364741-121d3283-5650-496e-b9f6-0ec09fbf4bcf.png)
+* __Answer: January 1st had more killings than any other day in 2022, with an amount of 82.__
