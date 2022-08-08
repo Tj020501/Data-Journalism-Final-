@@ -75,3 +75,6 @@ __Step-by-step answer:__
 5. Next Change the order to descending to see which dates had the most amount of murders due to gun violence. 
 ![Screen Shot 2022-08-08 at 12 36 19 AM](https://user-images.githubusercontent.com/109619909/183364741-121d3283-5650-496e-b9f6-0ec09fbf4bcf.png)
 * __Answer: January 1st had more killings than any other day in 2022, with an amount of 82.__
+
+
+# Story Summary and Sourcing
