@@ -37,7 +37,7 @@ __Step-by-step answer:__
 9. Referring back to the rows sections that contains the States, change the sorting to "Sort by N_injured".  
 10. Change the order to descending so we may see the states with to most injuries listed at the top, and the states with least at the bottom. 
 ![Screen Shot 2022-08-07 at 1 31 02 PM](https://user-images.githubusercontent.com/109619909/183310051-a4e8e318-e265-42e0-add4-ff1f02a7b728.png)
-* __Answer: There are several differences between the amount of people injured in 2014 compared to the amount of people injured in 2021. Although Illinois still is leading in the amount of injuries amongst the states, the amount of people injured doubled plus more. Many other states experiencd growth in the amount of injuries that occured as there are numerous states with values in the 2000's in 2021 whereas in 2014 Illinois was the only state to reach that amount of injuries.__
+* __Answer: There are several differences between the amount of people injured in 2014 compared to the amount of people injured in 2021. Although Illinois still is leading in the amount of injuries amongst the states, the amount of people injured doubled plus more. Many other states experiencd growth in the amount of injuries that occured as there are numerous states with values in the 2000's in 2021 whereas in 2014 Illinois was the only state to reach that amount of injuries. 2014 experienced 21,866 injuries. 2021 experienced 40,579 injuries.____
 
 __Question 3: What year experienced the greatest and least amount of killings?__ 
 
